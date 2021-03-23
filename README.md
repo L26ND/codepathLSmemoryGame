@@ -80,7 +80,7 @@ when does each function output during runtime. By doing that, I had a better und
 
 ## License
 
-    Copyright [Michelel Cheng]
+    Copyright [Yi Qian]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
