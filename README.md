@@ -6,6 +6,8 @@ Submitted by: **Yi Qian**
 
 Time spent: **10** hours spent in total
 
+Link to project: https://glitch.com/edit/#!/codepath-project
+
 ## Required Functionality
 
 The following **required** functionality is complete:
